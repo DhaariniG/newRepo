@@ -1,0 +1,2 @@
+hi hello from new branch 2
+practicing pull and compare
